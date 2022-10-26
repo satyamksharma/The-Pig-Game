@@ -22,6 +22,10 @@ body {
   justify-content: center;
 }
 
+h2 {
+  text-align: center;
+}
+
 /* LAYOUT */
 main {
   position: relative;
